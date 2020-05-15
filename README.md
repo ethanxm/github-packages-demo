@@ -13,7 +13,7 @@ registry=https://npm.pkg.github.com/
 Install the package:
 
 ```
-npm install @wangchi/github-packages-demo@0.0.1 --save
+npm install @taroalan/github-packages-demo@0.0.1 --save
 ```
 
 ## How to publish a package
